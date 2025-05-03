@@ -7,34 +7,34 @@ známkování 1 až 5), z nějž je počítán studijní průměr. Existují dv�
 dovednosti:
 
 a) Studenti oboru telekomunikací, kteří dokážou převést svoje jméno a příjmení na Morseovu
-abecedu
+   abecedu
 
 b) Studenti oboru kyberbezpečnosti, kteří dokážou vyjádřit svoje jméno a příjmení ve formě
-hashe (použití hashovací funkce)
-Při přijetí na univerzitu, je každý student zařazen do jedné z výše uvedených skupin. V průběhu studia
-není možné studenta přesunout do jiné skupiny.
-Vytvořte v programovacím jazyce JAVA ve vývojovém prostředí Eclipse databázový program, který
-umožní uživateli následující:
+   hashe (použití hashovací funkce)
+   Při přijetí na univerzitu, je každý student zařazen do jedné z výše uvedených skupin. V průběhu studia
+   není možné studenta přesunout do jiné skupiny.
+   Vytvořte v programovacím jazyce JAVA ve vývojovém prostředí Eclipse databázový program, který
+   umožní uživateli následující:
 
 a) Přidávat nové studenty - uživatel vždy provede výběr skupiny, do které chce studenta přiřadit, zadá
-jeho jméno a příjmení a rok narození. Následně je studentovi přiděleno identifikační číslo odvozené
-dle celkového pořadí přijímaných studentů.
+   jeho jméno a příjmení a rok narození. Následně je studentovi přiděleno identifikační číslo odvozené
+   dle celkového pořadí přijímaných studentů.
 
 b) Zadat studentovi novou známku – uživatel vybere studenta podle jeho ID a zadá požadovanou
-známku.
+   známku.
 
 c) Propuštění studenta z univerzity – uživatel zadá ID studenta, který je odstraněn z databáze.
 
 d) Nalezení jednotlivých studentů dle jejich ID a výpis ostatních informací (jméno, příjmení, rok
-narození, studijní průměr).
+   narození, studijní průměr).
 
 e) Pro vybraného studenta (dle ID) spustit jeho dovednost (viz rozdělení studentů dle oborů).
 
 f) Abecedně řazený výpis všech studentů (dle příjmení) v jednotlivých skupinách (ID, jméno, příjmení,
-rok narození, studijní průměr).
+   rok narození, studijní průměr).
 
 g) Výpis obecného studijního průměru v obou oborech (společný průměr všech studentů v daném
-oboru).
+   oboru).
 
 h) Výpis celkového počtu studentů v jednotlivých skupinách.
 
