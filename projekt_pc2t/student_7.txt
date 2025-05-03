@@ -1,0 +1,1 @@
+StudentKyb;7;Lukas;Houzar;2004;2;2,00;Kyberbezpečnost

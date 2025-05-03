@@ -1,0 +1,1 @@
+StudentTele;8;Stepan;Skuhra;2004;4;4,00;Telekomunikace

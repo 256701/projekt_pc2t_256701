@@ -1,0 +1,1 @@
+StudentTele;1;vojtech;stastny;2004;2;2,00;Telekomunikace

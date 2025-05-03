@@ -1,0 +1,1 @@
+StudentTele;2;jan;man;2003;4;4,00;Telekomunikace
